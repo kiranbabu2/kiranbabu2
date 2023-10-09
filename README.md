@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @kiranbabu2
+- 👋 Hi, I’m Kiran
 - 👀 I’m interested in Data Engineering and cloud(AWS).
 - 🌱 I’m currently learning Data Science and improving my skills in AWS.
-- 💞️ I’m looking to collaborate on Data Analytics and Data Science projects.
+- 💞️ AWS Solution Architect.
 - 📫 How to reach me kiranbabu408@gmail.com
 
 <!---
