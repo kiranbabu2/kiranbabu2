@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering and cloud(AWS).
 - 🌱 I’m currently learning Data Science and improving my skills in AWS.
 - 💞️ AWS Solution Architect.
-- 📫 How to reach me kiranbabu408@gmail.com
+- 📫 How to reach me kirannitr@gmail.com
 
 <!---
 kiranbabu2/kiranbabu2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
